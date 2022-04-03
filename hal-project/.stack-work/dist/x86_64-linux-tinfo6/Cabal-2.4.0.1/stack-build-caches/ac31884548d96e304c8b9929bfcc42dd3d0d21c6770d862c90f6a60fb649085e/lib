@@ -1,0 +1,40 @@
+/home/student/FUN_hal_2019/hal-project/src/Printer.hs:
+  hash: 6a76c7f5b0c2033c772052a6ea0459268bda2eb4825a68b883685d75a9588d6d
+  size: 413
+  modtime: 1578719155
+/home/student/FUN_hal_2019/hal-project/hal-project.cabal:
+  hash: 1d2a3c5a3800b96556f41060f2a80c13e66ef818e9b27c0845cceab5f3f299af
+  size: 1610
+  modtime: 1578718993
+/home/student/FUN_hal_2019/hal-project/ChangeLog.md:
+  hash: 0fc4773dcf47d547c6cd7c95ac4412946a8e5357f24163dab9b0308637f3601c
+  size: 51
+  modtime: 1578269870
+/home/student/FUN_hal_2019/hal-project/src/ManagerFile.hs:
+  hash: cd53beb9fec1de1524fa4dc0397a6537db1cfa806bbe8ac7bebd01859de9fe8d
+  size: 1534
+  modtime: 1578719252
+/home/student/FUN_hal_2019/hal-project/src/Error.hs:
+  hash: 804490b492abb9be280c086c790e00c3ff0337327cb7b48bdc44f309a910ffb7
+  size: 755
+  modtime: 1578718911
+/home/student/FUN_hal_2019/hal-project/src/Parser.hs:
+  hash: d502bf4cd43c430ab5522106fc43c224ac0efe952f7db8cafdf11d43ebdff1a3
+  size: 3351
+  modtime: 1578718606
+/home/student/FUN_hal_2019/hal-project/src/Repl.hs:
+  hash: cc78c624bfd24b437ee122caba1197ff35ea3531df45b4be083204739a74dfca
+  size: 673
+  modtime: 1578719256
+/home/student/FUN_hal_2019/hal-project/src/Evaluator.hs:
+  hash: 8a7836bac08e5a6e67d02803ed31bc00d7d956c8e5064bd63ed46f5974e8a989
+  size: 516
+  modtime: 1578719232
+/home/student/FUN_hal_2019/hal-project/package.yaml:
+  hash: 1a4425662da8a15adacc826c88d17f2420fd5251427bf6a35cfa31f6d9fe59dd
+  size: 1198
+  modtime: 1578269870
+/home/student/FUN_hal_2019/hal-project/README.md:
+  hash: 17a9d3dd805695786e23e05b029e5a3a1a8ced251e6b423c6bf39eac1a9747e0
+  size: 14
+  modtime: 1578269870
